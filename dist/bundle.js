@@ -1,0 +1,1 @@
+webpackJsonp([1],{0:function(e,t,n){"use strict";function u(e){return e&&e.__esModule?e:{"default":e}}n(89),n(90);var l=n(88),c=u(l),r=n(58),a=c["default"].createElement("p",null,"这是一个 ",c["default"].createElement("mark",null,"React")," 测试页.");(0,r.render)(a,document.getElementById("root"))},89:function(e,t){},90:function(e,t){}});
